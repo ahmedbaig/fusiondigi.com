@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <sect1 id="menu_bars">
+    <para>
+      <note>
+        <remark>Meta Tags For Seo + Page Optimization</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</remark>
+      </note>
+      <note>
+        <remark>Insert Favicon Here</remark>
+      </note>
+      <note>
+        <remark>&lt;!-- Page Title(Name)--&gt;</remark>
+      </note>
+      <note>
+        <remark>Bootstrap CSS File</remark>
+      </note>
+      <note>
+        <remark>Font-Awesome CSS File</remark>
+      </note>
+      <note>
+        <remark>Slider Revolution CSS File</remark>
+      </note>
+      <note>
+        <remark>Fancy Box CSS File</remark>
+      </note>
+      <note>
+        <remark>Circleful CSS File</remark>
+      </note>
+      <note>
+        <remark>Animate CSS File</remark>
+      </note>
+      <note>
+        <remark>magnific-popup CSS</remark>
+      </note>
+      <note>
+        <remark>Cube Portfolio CSS File</remark>
+      </note>
+      <note>
+        <remark>Owl Carousel CSS File</remark>
+      </note>
+      <note>
+        <remark>Swiper CSS File</remark>
+      </note>
+      <note>
+        <remark>Media CSS File</remark>
+      </note>
+      <note>
+        <remark>Particle CSS</remark>
+      </note>
+      <note>
+        <remark>Custom Style CSS File</remark>
+      </note>
+      <note>
+        <remark>custom styles (optional)</remark>
+      </note>
+      <note>
+        <remark>Google Font</remark>
+      </note>
+      <note>
+        <remark>Google Map Api</remark>
+      </note>
+      <note>
+        <remark>Loader</remark>
+      </note>
+      <note>
+        <remark>Parent Section</remark>
+      </note>
+      <note>
+        <remark>Header Section</remark>
+      </note>
+      <note>
+        <remark>Navbar Section</remark>
+      </note>
+      <note>
+        <remark>&lt;!--second nav button --&gt;</remark>
+      </note>
+    </para>
+  </sect1>
+  <para><note><remark>Brand and toggle get grouped for better mobile display</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/logo.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  <sect1>
+    <title>Fusion Digital</title>
+    <orderedlist>
+      <listitem>
+        <para><anchor id="homelink"/><note><remark>Collect the nav links, forms, and other content for toggling</remark></note><link linkend="">Home</link> </para>
+      </listitem>
+      <listitem>
+        <para><anchor id="aboutlink"/><link linkend="">About</link> </para>
+      </listitem>
+      <listitem>
+        <para><anchor id="worklink"/><link linkend="">Our Work</link> </para>
+      </listitem>
+      <listitem>
+        <para><anchor id="teamlink"/><link linkend="">Team</link> </para>
+      </listitem>
+      <listitem>
+        <para><anchor id="contactlink"/><link linkend="">Contact Us</link> </para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>/.navbar-collapse</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/logo-dark.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>Fusion Digital</title>
+    <orderedlist>
+      <listitem>
+        <para><ulink url="https://fusiondigi.com/#top">01.Home</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://fusiondigi.com/#skill_section">02.About</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://fusiondigi.com/#work">03.Our Work</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://fusiondigi.com/#team">04.Team</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://fusiondigi.com/#contact-form">05.Contact Us</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><anchor id="login"/><ulink url="https://webtors.com:2096/">06.Log In</ulink> </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist>
+      <listitem>
+        <para/>
+      </listitem>
+    </orderedlist>
+    <sect1 id="particles-js">
+      <para>
+        <note>
+          <remark>/Navbar Section</remark>
+        </note>
+        <note>
+          <remark>Main Slider Section</remark>
+        </note>
+        <note>
+          <remark>particles.js container</remark>
+        </note>
+      </para>
+    </sect1>
+    <para><inlinegraphic fileref="https://fusiondigi.com/images/logo-white.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>We Are </title>
+    <para>We set the trends for tomorrow</para>
+    <para><link linkend="">Learn More.</link> </para>
+    <para><note><remark>/Main Slider Section</remark></note><note><remark>/Header Section</remark></note><note><remark>Half Section</remark></note>Try it now</para>
+    <sect2>
+      <title>Startups will love it </title>
+      <para/>
+      <para>Your startup will love having us work for you. We provide digital solutions to all bussiness types, be it creating your brand identity from the ground up or revamping your current business website. From setting up your e-commerce website from scratch to designing a digital marketing campaign for your business, we do it all. We translate your vision into a great idea and combine it with our creative expertise to shape it into an engaging, innovative, and result drive digital solution. </para>
+      <para>24/7 Support</para>
+      <para>We provide 24 hours support for our clients and feel free to contact us at any moment for further guidance on what you want us to do next for you in the digital marketing and web development world. </para>
+      <para>HTML5 Code</para>
+      <para>The sites we build for your company will be completely responsive and available for any platform at any screen ratio. </para>
+      <para><note><remark>half Section Ended</remark></note><note><remark>Circle Js Skill Section</remark></note><note><remark>Skill Heading Section</remark></note>What we do</para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Our Awesome Services </title>
+    <para/>
+    <sect2>
+      <title><note><remark>/Skill Section</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/icon/pen-tool.png" width="0.7862inch" depth="0.3929inch"/> </title>
+      <note>
+        <remark>/Skill Section</remark>
+      </note>
+    </sect2>
+    <sect2>
+      <title>Graphic Designing</title>
+      <para>Our team is filled with talented graphic designers with an experience working for the international market so we know exactly how to make your company stand-out. </para>
+    </sect2>
+    <sect2>
+      <title><inlinegraphic fileref="https://fusiondigi.com/images/icon/camera.png" width="0.7862inch" depth="0.3929inch"/> </title>
+    </sect2>
+    <sect2>
+      <title>Photography</title>
+      <para>Leading photography team with state of the art equipment to capture every moment for any event that you will ever need. </para>
+    </sect2>
+    <sect2>
+      <title><inlinegraphic fileref="https://fusiondigi.com/images/icon/camcorder.png" width="0.7862inch" depth="0.3929inch"/> </title>
+    </sect2>
+    <sect2>
+      <title>Videography</title>
+      <para>Our Videography team is an expert in making cinematography and recording any event or project our clients place in front of them. </para>
+    </sect2>
+    <sect2>
+      <title><inlinegraphic fileref="https://fusiondigi.com/images/icon/social-media.png" width="0.7862inch" depth="0.3929inch"/> </title>
+    </sect2>
+    <sect2>
+      <title>Social Media</title>
+      <para>We offer our clients to handle all their social media which includes creating and posting graphic photos and vector images. </para>
+    </sect2>
+    <sect2>
+      <title><inlinegraphic fileref="https://fusiondigi.com/images/icon/animation.png" width="0.7862inch" depth="0.3929inch"/> </title>
+    </sect2>
+    <sect2>
+      <title>Animations</title>
+      <para>Our team is able to create contemporary and both 2D and 3D level animations on the demands of our clients. </para>
+    </sect2>
+    <sect2>
+      <title><inlinegraphic fileref="https://fusiondigi.com/images/icon/code.png" width="0.7862inch" depth="0.3929inch"/> </title>
+    </sect2>
+    <sect2>
+      <title>Web Designing</title>
+      <para>Our web designers are an expert at creating modern and unique web designs for our clients from scratch or on any demand. </para>
+      <para><note><remark>/Circel Js Skill Section</remark></note><note><remark>Portfolio Section</remark></note>Creative Portfolio</para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Our Awesome Work </title>
+    <para/>
+    <para><note><remark>gallery</remark></note><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/1.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/1.jpg">Videography</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/1.jpg">Videography</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/2.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/2.jpg">WEBsite dESIGN</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/2.jpg">WEBsite dESIGN</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/3.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/3.jpg">photography</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/3.jpg">photography</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/4.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/4.jpg">Vector DESIGN</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/4.jpg">Vector DESIGN</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/5.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/5.jpg">Animations</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/5.jpg">Animations</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/6.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/6.jpg">brand identity</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/6.jpg">brand identity</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/7.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/7.jpg">photography</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/7.jpg">photography</ulink>
+        <para><note><remark>gallery item</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/portfolio/8.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>
+          <ulink url="https://fusiondigi.com/images/portfolio/8.jpg">Digital Marketing</ulink>
+        </title>
+        <ulink url="https://fusiondigi.com/images/portfolio/8.jpg">Digital Marketing</ulink>
+        <para><note><remark>Stats Section</remark></note>A strong team can take any vision and turn it into reality. </para>
+        <para>- Henry Ford. </para>
+        <para><note><remark>/Stats Section</remark></note><note><remark>/Portfolio Section</remark></note>Let's Meet</para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Our Creative Team </title>
+    <para/>
+    <para><inlinegraphic fileref="https://fusiondigi.com/images/team-1.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <sect2>
+      <title>Uzma Aslam Siddique</title>
+      <para>CEO - Fusion Digital</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-2.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Talal Hussain</title>
+      <para>COO - Fusion Digital</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-3.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Mominah Abdul Rahim</title>
+      <para>Group Accounts Manager</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-4.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Muhammad Asad</title>
+      <para>Creative Executive</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-5.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Shahzaib Ali Shah</title>
+      <para>Creative Executive</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-6.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Ahmed Baig</title>
+      <para>Web Developer</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-7.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Muntaha Nadeem</title>
+      <para>Content Manager</para>
+      <para><inlinegraphic fileref="https://fusiondigi.com/images/team-8.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Hamna Rindani</title>
+      <para>Social Media Manager</para>
+      <para><note><remark>Half Section</remark></note>Professional Expertise</para>
+    </sect2>
+    <sect2>
+      <title>Our Awesome Skills </title>
+      <para/>
+      <para>With our amazing skills in marketing and digital marketing, we guarantee our clients that they receive the best. We make sure that whatever our client has ordered will be delivered before hand. </para>
+      <para><note><remark>half Section Ended</remark></note><note><remark>Customer Review Slider</remark></note><inlinegraphic fileref="https://fusiondigi.com/images/cutomer_quote.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>We Helped Them Grow </title>
+    <para/>
+    <para><inlinegraphic fileref="https://fusiondigi.com/images/clients/turk.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/jaffler.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/master.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/24.png" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/wse.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/mirza.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/sheesha.png" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/smdukan.png" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/anees.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/artsc.jpg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/bobby.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/gree.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/tawakkal.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/sweet.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/shaikh.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/ja.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/maryam.jpeg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="https://fusiondigi.com/images/clients/menu.jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para><note><remark>/Customer Review Slider</remark></note><note><remark>Google Map Section</remark></note><note><remark>/Google Map Section</remark></note><note><remark>Contact Form Section</remark></note>Office 06, Upper Mezzanine Floor, </para>
+    <para>BB Shopping Mall, Opp NED University </para>
+    <para>Gulistan-e-Johar, Block 1, Karachi </para>
+    <para>+92 336 3784166 </para>
+    <para>+92 333 3019959 </para>
+    <para>
+      <ulink url="mailto:info@fusiondigi.com">info@fusiondigi.com </ulink>
+    </para>
+    <para>We'd Love To Hear From You.</para>
+    <sect2>
+      <title>Let's Get In Touch</title>
+      <para/>
+      <para>You can contact us anytime you want if you have any query regarding our services. We're happy to help you and are available for you at anytime you want. Feel free to contact us on our numbers or visit us at our office. </para>
+      <orderedlist>
+        <listitem>
+          <para>
+            <note>
+              <remark>/Contact Form Section</remark>
+            </note>
+            <note>
+              <remark>Footer Section</remark>
+            </note>
+          </para>
+        </listitem>
+      </orderedlist>
+      <para>© <anchor id="year"/>Fusion Digital, All rights reserved. </para>
+      <para><note><remark>/Footer Section</remark></note><note><remark>/Parent Section Ended</remark></note><note><remark>&lt;!-- jQuery 2.2.0--&gt;</remark></note><note><remark>Google Map Api</remark></note><note><remark>REVOLUTION JS FILES</remark></note><note><remark>SLIDER REVOLUTION 5.0 EXTENSIONS (Load Extensions only on Local File</remark></note><note><remark>Systems ! The following part can be removed on Server for On Demand Loading)</remark></note><note><remark>Bootstrap Core JavaScript</remark></note><note><remark>Owl Carousel 2 Core JavaScript</remark></note><note><remark>isotope.pkgd.min js</remark></note><note><remark>Fancy Box Javacript</remark></note><note><remark>Wow Js</remark></note><note><remark>&lt;!-- Appear Js--&gt;</remark></note><note><remark>Countdown Js</remark></note><note><remark>Parallax Js</remark></note><note><remark>Cube Portfolio Core JavaScript</remark></note><note><remark>Circliful Core JavaScript</remark></note><note><remark>Swiper Slider Core JavaScript</remark></note><note><remark>scripts</remark></note><note><remark>stats.js</remark></note><note><remark>Custom JavaScript</remark></note><note><remark>typed</remark></note><note><remark>magnific-popup</remark></note><note><remark>stellar js</remark></note><note><remark>jquery barfiller js</remark></note><note><remark>custom JavaScript</remark></note><note><remark>Onload</remark></note>            var d = new Date();
+            document.getElementById("year").innerHTML = d.getFullYear();
+            function change(){
+                window.location.href = "https://webtors.com:2096/";
+            }
+        </para>
+    </sect2>
+  </sect1>
+</article>

@@ -1,0 +1,50 @@
+
+<!-- jQuery 2.2.0-->
+<script src="js/jquery.js"></script>
+<!-- Google Map Api -->
+<script src="js/map.js" type="text/javascript"></script>
+<!-- REVOLUTION JS FILES -->
+<script type="text/javascript" src="js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Owl Carousel 2 Core JavaScript -->
+<script src="js/owl.carousel.js"></script>
+<script src="js/owl.animate.js"></script>
+<script src="js/owl.autoheight.js"></script>
+<script src="js/owl.autoplay.js"></script>
+<script src="js/owl.autorefresh.js"></script>
+<script src="js/owl.hash.js"></script>
+<script src="js/owl.lazyload.js"></script>
+<script src="js/owl.navigation.js"></script>
+<script src="js/owl.support.js"></script>
+<script src="js/owl.video.js"></script>
+<!-- isotope.pkgd.min js -->
+<script src="js/isotope.pkgd.min.js"></script>
+<!-- Fancy Box Javacript -->
+<script src="js/jquery.fancybox.js"></script>
+<!-- Wow Js -->
+<script src="js/wow.min.js"></script>
+<!-- Appear Js-->
+<script src="js/jquery.appear.js"></script>
+<!-- Countdown Js -->
+<script src="js/jquery.countdown.js"></script>
+<!-- Cube Portfolio Core JavaScript -->
+<script src="js/jquery.cubeportfolio.min.js"></script>
+<!-- Swiper Slider Core JavaScript -->
+<script src="js/swiper.min.js"></script>
+<!-- scripts -->
+<script src="js/particles.js"></script>
+<script src="js/app.js"></script>
+<!-- Custom JavaScript -->
+<script src="js/script.js"></script>
+<!-- typed -->
+<script type="text/javascript" src="js/typed.js"></script>
+<!-- magnific-popup -->
+<script src="js/jquery.magnific-popup.min.js"></script>
+<!-- stellar js -->
+<script src="js/jquery.stellar.min.js"></script>
+<!-- jquery barfiller js -->
+<script src="js/jquery.barfiller.js"></script>
+<!-- custom JavaScript -->
+<script type="text/javascript" src="js/custom.js"></script>
