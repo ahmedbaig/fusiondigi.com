@@ -308,7 +308,7 @@ body.pushmenu-push-toLeft{right:260px;-webkit-transition:all 300ms linear;-moz-t
 .stats_section_inner h3{margin-bottom:15px;}
 .half_section_main{position:relative;}
 .half_section_main .half_section_picture{left:0;background:url(../images/half_section_left_bg.jpg);background-position:left center;position:absolute;z-index:0;top:0;bottom:0;height:100%;width:100%;background-repeat:no-repeat;}
-.half_section_main .side_section_text{padding-left:30px;padding-right:70px!important;width:119%;background:rgba(247, 247, 247, 0.7);}
+.half_section_main .side_section_text{padding-left:30px;padding-right:70px!;width:119%;background:rgba(247, 247, 247, 0.7);}
 .side_section_text .default_text_light{color:black;font-weight:normal;font-size:17px;font-family:'Raleway', 'Sans-Serif';}
 .icons_div_small i{font-size:30px;transition:300ms;padding-right:10px;}
 .icons_div_small{padding:50px 0 0;}

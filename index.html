@@ -15,6 +15,9 @@
         <!-- Page Title(Name)-->
         <title>FUSION DIGITAL - We set the trends for tomorrow
         </title>
+
+        <!-- Web Manifest File -->
+        <link rel='manifest' href='./manifest.json'>
         <!-- Bootstrap CSS File -->
         <link rel="stylesheet" href="css/bootstrap.css">
         <!-- Font-Awesome CSS File -->
@@ -813,6 +816,7 @@
         <!-- /Parent Section Ended -->
         <!-- compressed JavaScript -->
         <script type="text/javascript" src="js/compressed.js"></script>
+        <!-- Service Worker -->
         <!-- Onload -->
         <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
         <script>
@@ -823,9 +827,9 @@
         </script>
         <script>
           $(window).load(function(){
-            if(location.href != "https://www.fusiondigi.com/"){
-              location.href = "https://www.fusiondigi.com/"
-            }
+            // if(location.href != "https://www.fusiondigi.com/"){
+            //   location.href = "https://www.fusiondigi.com/"
+            // }
           })
         </script>
         <script type='text/javascript'>
@@ -834,6 +838,10 @@
             function change(){
                 window.location.href = "https://webtors.com:2096/";
             }
+        </script>
+        <script type="text/javascript" src="registerServiceWorker.js"></script>
+        <script>
+          register();
         </script>
     </body>
 </html>
