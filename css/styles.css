@@ -11,9 +11,8 @@ button{background:inherit;border:none;}
 .position-a{position:absolute;}
 .bg-image-half{position:absolute;height:100%;background-size:cover !important;background-position:50% 50% !important;z-index:0;}
 .v-middle{position:absolute;width:100%;top:50%;left:0;-webkit-transform:translate(0%, -50%);transform:translate(0%, -50%);z-index:1;}
-@media (max-width:420px){.v-middle{top:-20px;position:relative !important;}
 .top .button{margin-top:-50px;margin-bottom:-50px;}
-.half_section_main{position:relative;margin-top:-50px;}
+.half_section_main{position:relative;}
 .quote{width:auto!important;}
 .quote p{font-size:21px!important;}
 .quote .fa-quote-left{margin-right:80%!important;}
@@ -25,8 +24,8 @@ button{background:inherit;border:none;}
 .box-shadow-3{-webkit-box-shadow:0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);box-shadow:0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.3);}
 .button{color:#111;cursor:pointer;font-weight:400;font-size:13px;line-height:15px;margin-right:10px;text-align:center;padding:14px 35px;white-space:nowrap;letter-spacing:1px;display:inline-block;text-decoration:none;text-transform:uppercase;border:none;border-radius:30px !important;-webkit-animation-delay:2s;animation-delay:2s;-webkit-transition:background 0.3s ease-in-out, color 0.3s ease-in-out;transition:background 0.3s ease-in-out, color 0.3s ease-in-out;}
 .button:hover{color:#ffffff;-webkit-transition:background 0.5s ease-in-out, color 0.5s ease-in-out;transition:background 0.5s ease-in-out, color 0.5s ease-in-out;}
-.button-hot{background-color:#003171 !important;color:#fff;border-radius:30px !important;}
-.button-hot:hover{background-color:#fff !important;color:#111 !important;}
+.button-hot{background:linear-gradient(50deg, #0f0c29, #302b63,#24243e) !important;color:#fff;border-radius:30px !important;}
+.button-hot:hover{background:linear-gradient(130deg, #fff, #780206) !important;color:#111 !important;}
 .button-dark{background-color:#444;}
 .button-light{background-color:#EEE;color:#333;}
 .hvr-shutter-in-horizontal{display:inline-block;vertical-align:middle;-webkit-transform:perspective(1px) translateZ(0);transform:perspective(1px) translateZ(0);-webkit-box-shadow:0 0 1px transparent;box-shadow:0 0 1px transparent;position:relative;background:#003171;border-radius:30px !important;-webkit-transition-property:color;transition-property:color;-webkit-transition-duration:0.3s;transition-duration:0.3s;}
